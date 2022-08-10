@@ -12,7 +12,9 @@ negative temperature coefficient resistors, micro-heaters, ultrasonic range find
 FLIR thermal camera, raspberry pi camera, omniVision cameras, LCD/TFT displays, 4D systems LCD display, raspberry pi display, 
 gemmological testing devices, medical devices, NDT testing devices.
 
+Reach me at: masadrehman2022@gmail.com
 
+Fun fact: Chicken Tikka Masala, a popular dish in India, is not Indian. It was invented in Glasgow, Scotland.
 
 <!--
 **asadr2022/asadr2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
