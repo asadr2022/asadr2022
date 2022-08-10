@@ -7,12 +7,10 @@ I am looking for help with FPGA development.
 
 Ask me about:
 microcontrollers, microprocessors, 
-LED, Pushbutton, Reed Switches, Linear Encoders, Load Cells, 
-Negative Temperature Coefficient resistors, Micro-heaters, Ultrasonic Range Finder, Radiation Counters, peristaltic pumps, solenoid valves, 
-inertial mass units, UWB sensors, video controllers, EEPROMs, RTCs, pressure-temperature sensors
-FLIR thermal camera, raspberry pi camera, omniVision cameras,
-LCD/TFT displays, 4D systems LCD display, raspberry pi display
-Gemmological testing devices, Medical devices, NDT Testing devices.
+LED, push-button, reed switches, linear encoders, load cells, 
+negative temperature coefficient resistors, micro-heaters, ultrasonic range finder, radiation counters, peristaltic pumps, solenoid valves, inertial mass units, UWB sensors, video controllers, EEPROMs, RTCs, pressure-temperature sensors, 
+FLIR thermal camera, raspberry pi camera, omniVision cameras, LCD/TFT displays, 4D systems LCD display, raspberry pi display, 
+gemmological testing devices, medical devices, NDT testing devices.
 
 
 
